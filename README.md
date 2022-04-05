@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nats-kuchroo
+- 👋 Hi, I’m @nats
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Python + SQL
 - 💞️ I’m looking to collaborate on ...
